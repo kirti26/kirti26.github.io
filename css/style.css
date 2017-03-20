@@ -155,9 +155,7 @@ body {
 #speakers li a:hover {color: rgba(0,0,0, 0.7);}
 
 /* Rows Optimization */
-.row2 {
-	display: none;
-}
+
 
 .row1 .col-md-3, .row2 .col-md-3 {
 	padding-bottom: 40px;
